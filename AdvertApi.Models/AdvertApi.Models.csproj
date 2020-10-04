@@ -1,7 +1,14 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors />
+    <Company />
+    <Product />
+    <PackageProjectUrl>https://github.com/khsoftware22/WebAdvert.AdvertAPI</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/khsoftware22/WebAdvert.AdvertAPI</RepositoryUrl>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageId>AdvertApi.Models.Kh</PackageId>
   </PropertyGroup>
 
 </Project>

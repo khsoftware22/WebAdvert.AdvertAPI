@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace AdvertApi.Controllers
 {
-    [Route("api/v1/advert")]
+    [Route("advert/v1")]
     [ApiController]
     public class Advert : ControllerBase
     {
